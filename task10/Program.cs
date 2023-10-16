@@ -16,14 +16,3 @@ else
 {
     Console.WriteLine(number + " не трёхзначное число");
 }
-//Console.Write("Введите трёхзначное число: ");
-//int number = Convert.ToInt32(Console.ReadLine());
-//if (number < 1000 & number > 99)
-//{
-    //int SecondDigit = number % 100 / 10;
-    //Console.WriteLine("Вторая цифра числа " + number + " это " + SecondDigit);
-//}
-//else
-//{
-  //  Console.WriteLine(number + " не трёхзначное число");
-//}
